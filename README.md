@@ -1,2 +1,1 @@
-# monica-nikolaisen-js1-ma1
-JavaScript Module 1 Module Assignment
+# Files for JavaScript 1 Module Asssignment 1
